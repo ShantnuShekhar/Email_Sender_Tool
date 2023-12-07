@@ -1,0 +1,14 @@
+[{  "name":"Shantnu",
+    "email":"shantnu.s@techladd.com",
+    "subject":"Unlocking Exclusive Insights: TechLadd's December Newsletter Inside!",
+    "replyTo": "shantnushekhar645@gmail.com",
+    "cc":["shantnu.s@techladd.com"]
+},
+{
+    "name":"Shekhar",
+    "email":"shekharshantnu9@gmail.com",
+    "subject":"Hello This Subject is created by Shantnu",
+    "replyTo": "shantnushekhar645@gmail.com",
+    "cc":["shantnu.s@techladd.com"]
+}
+]
