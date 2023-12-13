@@ -62,11 +62,6 @@ fs.readFile('emails.json', 'utf8', (err, data) => {
         console.log(`Invalid reply to address for ${name}: ${email}`);
         return; 
       }
-      if (!isValidCc(cc)) {
-        console.log(`Invalid CC to address for ${name}: ${email}`);
-        return; 
-      }
-
       const html = `
       <body>
         <table cellpadding="0" cellspacing="0" border="0" role="presentation" bgcolor="white" width="595"
